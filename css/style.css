@@ -61,11 +61,20 @@ body
 {
     color: black;
 }
-h2{
+h2
+{
     color: gold;
-    font-size:25px ;
-    margin: 0px auto;
-    text-decoration: none;
-    padding: 50px 50px;
-    padding-top: 100px;
+    font-size: 25px;
+    margin: 0px;
+}
+
+.oaoa
+{
+    margin-left: 200px;
+}
+
+.qw
+{
+    margin-top: 50px;
+    margin-left: 10px;
 }
